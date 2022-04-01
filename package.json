@@ -1,0 +1,19 @@
+{
+  "name": "@jmikepad/color-utility",
+  "version": "1.0.1",
+  "description": "just a little color utility library for web dev",
+  "main": "color-utility.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMIKEPAD/colorUtility.git"
+  },
+  "author": "JMIKEPAD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMIKEPAD/colorUtility/issues"
+  },
+  "homepage": "https://github.com/JMIKEPAD/colorUtility#readme"
+}
